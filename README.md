@@ -32,7 +32,7 @@ Clone o repositório e execute localmente:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/seu-usuario/seu-repo.git](https://github.com/allysrdev/fluid-editor
 
 # Acesse a pasta
 cd seu-repo

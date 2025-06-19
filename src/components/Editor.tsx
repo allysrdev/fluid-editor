@@ -33,13 +33,17 @@ function EditorComponent() {
     content: initialContent,
     editorProps: {
       attributes: {
-        class: 'outline-none',
+        class: 'outline-none break-words whitespace-pre-wrap',
       },
     },
   });
   return (
     <>
-      <EditorContent className="max-w-[800px] mx-auto pt-16  prose prose-sky" editor={editor} />
+      <EditorContent
+        className=" sm:max-w-[800px] max-w-[280px] mx-auto pt-16 prose prose-sky"
+        editor={editor}
+      />
+
       <FloatingMenu
         editor={editor}
         shouldShow={(props) => {

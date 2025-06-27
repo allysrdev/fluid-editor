@@ -3,6 +3,8 @@
 Um editor de texto fluido, minimalista e intuitivo, inspirado na experiência do Notion.  
 Desenvolvido com **React**, **TypeScript** e **Vite**, utilizando o poder da biblioteca **Tiptap** para edição rica de texto e **TailwindCSS** para estilização.
 
+## Veja projeto no ar:
+https://fluideditor.vercel.app/
 ---
 
 ## 🚀 Tecnologias Utilizadas
